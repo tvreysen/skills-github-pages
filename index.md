@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Welcome to Phase 1 of Engineering Training
 ---
